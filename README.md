@@ -1,4 +1,4 @@
-### Explanation: Building an E-commerce Android App using Kotlin and Firebase
+### An E-commerce Android App using Kotlin and Firebase
 
 #### **1. Overview**
 The e-commerce Android app was designed to enable users (customers and administrators) to perform various activities such as browsing products, managing product inventory, and securely purchasing items. The app was developed using Kotlin as the programming language and Firebase for backend services, offering scalability and real-time functionalities.
@@ -56,4 +56,4 @@ The e-commerce Android app was designed to enable users (customers and administr
 
 ---
 
-This project demonstrates your ability to combine modern tools and programming techniques to build a functional, secure, and user-friendly e-commerce application. Let me know if you'd like further assistance in refining or expanding this explanation!
+This project demonstrates your ability to combine modern tools and programming techniques to build a functional, secure, and user-friendly e-commerce application.
