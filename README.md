@@ -1,0 +1,1 @@
+Developed an **E-commerce Android App** using Kotlin and Firebase, featuring secure authentication, real-time data storage, and product management. Enhanced the app with sales analysis capabilities, enabling efficient tracking of purchasing trends and improving user experience through seamless product browsing and secure transaction functionalities.
